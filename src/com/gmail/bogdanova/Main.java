@@ -53,7 +53,7 @@ public class Main {
         System.out.println("Остаток от деления 11/5: " + findRemainder(11, 5));
     }
 
-    //Just for an example of using operators
+    //Just for the example of using operators
     static long getFactorial(int f) {
         if (f <= 1) {
             return 1;
